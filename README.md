@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning, Cars, Powertrain engineering, Autonomous Driving and Data Science.
 - 🌱 I’m a Graduate Student in Engineering at the ENSAM Arts et Métiers Institue of Science & Technology in Lille.
 - 📫 How to reach me :
-       🏫 maxime.boulanger@ensam.eu 
+       🏫 maxime.boulanger@ensam.eu
        👔 https://www.linkedin.com/in/maxime-boulanger-37620b182/
 
 <!---
